@@ -1,0 +1,82 @@
+#logo{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#border-box{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#container{
+    border: 1px solid lightgray;
+    width: 25%;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+#content input{
+    display: flex;
+    width: 300px;
+    padding: 5px;
+    margin: auto;
+}
+
+#content a{
+    display: inline;
+
+
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: orange;
+    border-radius: 25px;
+    margin: auto;
+}
+
+img{
+    height: 150px;
+    width: 200px;
+}
+
+a{
+    color:blue;
+}
+
+a:hover{
+    color: orange;
+}
+
+p{
+    margin: auto;
+}
+
+#question{
+    display: flex;
+}
+
+#register{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#register a{
+    background-color: lightgray;
+}
+
+#footbox{
+    display: flex;
+    justify-content: center;
+}
+
+#footbox a{
+    padding: 10px;
+}
+
